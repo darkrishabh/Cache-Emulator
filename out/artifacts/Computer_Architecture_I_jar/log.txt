@@ -1,0 +1,2 @@
+Cache Management Emulator - Rishabh Mehan
+Enter Associativity[1-8]: 
